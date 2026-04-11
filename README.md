@@ -11,7 +11,7 @@
 <div align="left" width="100%">
    
 ## 🧐 About
-- 🧐 About: https://atesalinkaynak.com/about
+- 🧐 About: https://atesaltinkaynak.com/about
 - 👨‍💻 Website: https://atesaltinkaynak.com
 - 📫 How to reach me: atesaltinkaynak@gmail.com
   
