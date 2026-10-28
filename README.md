@@ -1,5 +1,6 @@
 # Hello 👋
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atesaltnk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atesaltnk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atesaltinkaynak@gmail.com) 
 
@@ -17,7 +18,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=atesaltnk&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=atesaltnk&icon=2&color=black)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/atesaltnk) 
